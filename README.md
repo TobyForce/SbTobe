@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toby</h1>
 <h3 align="center">Very much a junior developer getting the grips with HTML, CSS and JavaScript.</h3>
 
-- 📝 I regularly write articles on [www.tobyforce.com](www.tobyforce.com)
+- 📝 I regularly write articles on www.tobyforce.com
 
 - 📫 How to reach me **toby@tobyforce.com**
 
